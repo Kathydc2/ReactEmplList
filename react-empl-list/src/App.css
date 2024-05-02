@@ -53,6 +53,22 @@
   border: solid lightblue;
   height: 40px;
 }
+.topContainer{
+  border: solid black;
+  display:flex;
+  justify-content: space-around;
+
+}
+.profile{
+  border:solid blue;
+  border-radius:50%;
+  height:90px;
+  width:90px
+}
+.infoBox{
+  border:solid purple;
+  width:40%
+}
 .searchbar{
   border: solid green;
 }
